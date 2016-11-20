@@ -1,6 +1,6 @@
 <?php
 
-namespace m7vm7v\Roles\Traits\User;
+namespace m7vm7v\roles\Traits\User;
 
 use App\User;
 

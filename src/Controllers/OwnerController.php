@@ -1,6 +1,6 @@
 <?php
 
-namespace m7vm7v\Roles\Controllers;
+namespace m7vm7v\roles\Controllers;
 
 use App\Http\Controllers\Controller;
 

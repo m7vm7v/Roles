@@ -1,6 +1,6 @@
 <?php
 
-namespace m7vm7v\Roles\Providers;
+namespace m7vm7v\roles\Providers;
 
 use Illuminate\Support\ServiceProvider;
 

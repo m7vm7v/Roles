@@ -1,6 +1,6 @@
 <?php
 
-namespace m7vm7v\Roles\Middleware;
+namespace m7vm7v\roles\Middleware;
 
 use Closure;
 use Illuminate\Support\Facades\Auth;

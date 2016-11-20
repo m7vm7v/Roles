@@ -1,5 +1,7 @@
 #Instalation
 
+composer require m7vm7v/roles:dev-master
+
 Register the routeMiddleware in app\Kernel.php
 
 protected $routeMiddleware = [

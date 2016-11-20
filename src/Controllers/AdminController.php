@@ -1,6 +1,6 @@
 <?php
 
-namespace m7vm7v\Roles\RoleControllers\Controllers;
+namespace m7vm7v\roles\RoleControllers\Controllers;
 
 use App\Http\Controllers\Controller;
 
